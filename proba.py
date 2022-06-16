@@ -26,4 +26,6 @@ if __name__ == '__main__':
 
 
 
-    # proba za gits
+    # proba za git
+    #proba za drugo komitovanje 
+    
